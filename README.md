@@ -52,5 +52,5 @@ Proyek ini merupakan proyek dummy yang saya buat untuk menunjukkan kemampuan ana
 
 Nama perusahaan, produk, dan data bersifat fiktif dan digunakan hanya untuk kepentingan pembelajaran.
 
-🤝 Terima Kasih!
+## Terima Kasih!
 Terima kasih telah mengunjungi proyek ini. Silakan jelajahi isi repositori ini untuk eksplorasi lebih lanjut. Jika kamu memiliki masukan atau pertanyaan, feel free untuk membuka issue atau menghubungi saya melalui GitHub!
